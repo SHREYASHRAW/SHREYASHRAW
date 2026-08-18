@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shreyash Rawate
+# Hi , I'm Shreyash Rawate
 
 ## Computer Science Engineer | Data Science Enthusiast
 
