@@ -80,7 +80,7 @@ LinkedIn:
 (Add after creating/updating your LinkedIn)
 
 Email:
-(Add your professional email)
+shreyashrawate9229@gmail.com
 
 <!--
 **SHREYASHRAW/SHREYASHRAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
