@@ -142,7 +142,7 @@ Exploratory data analysis of Netflix titles to identify trends in content types,
 https://github.com/SHREYASHRAW
 
 ### LinkedIn
-(Add your LinkedIn profile here)
+www.linkedin.com/in/shreyashrawate
 
 ### Email
 shreyashrawate9229@gmail.com
