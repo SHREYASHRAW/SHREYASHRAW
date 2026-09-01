@@ -1,44 +1,59 @@
-# Hi , I'm Shreyash Rawate
+# Hi, I'm Shreyash Rawate 
 
-## Computer Science Engineer | Data Science Enthusiast
+## Data Analyst | Business Analytics | Data Science
 
-I enjoy building practical projects in **Machine Learning**, **Data Analytics**, and **Data Engineering** while continuously improving my programming and problem-solving skills.
+I’m a Computer Science Engineer with a background in Data Science, passionate about transforming data into meaningful insights and solving real-world business problems.
+
+I enjoy working with **SQL, Excel, Python, Power BI, and Machine Learning** to analyze data, identify patterns, build dashboards, and support data-driven decision making.
 
 ---
 
 ## 🚀 Currently Working On
 
-- Face Recognition using PCA & ANN
-- Building a professional GitHub portfolio
-- Learning Data Engineering concepts
+- 📊 Retail Sales Performance & Profitability Analysis
+- 🗄️ Advanced SQL business analysis
+- 📈 Excel dashboards and business reporting
+- 📊 Power BI data visualization
+- 🧠 Building AI-integrated analytics projects
+- 💼 Developing a professional Data Analyst portfolio
 
 ---
 
 ## 🌱 Currently Learning
 
+- Advanced SQL
+- Microsoft Excel
+- Power BI & DAX
+- Business Analytics
+- Data Visualization
 - Machine Learning
-- SQL
-- Power BI
-- Data Engineering
-- MERN Stack
+- Data Engineering Fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Programming & Query Languages
 
 - Python
 - SQL
-- Java (Basics)
+- Java
 
-### Libraries
+### Data Analytics
 
-- NumPy
+- Microsoft Excel
 - Pandas
+- NumPy
 - Matplotlib
+- Power BI
+- DAX
+
+### Machine Learning
+
+- Scikit-learn
+- PCA
+- Artificial Neural Networks
 - OpenCV
-- SciPy
 
 ### Tools
 
@@ -46,15 +61,43 @@ I enjoy building practical projects in **Machine Learning**, **Data Analytics**,
 - GitHub
 - VS Code
 - Google Colab
-- Power BI
+- Jupyter Notebook
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
+
+### 📊 Retail Sales Performance & Profitability Analysis
+
+An end-to-end business analytics project focused on analyzing retail sales, profitability, customers, products, regions, discounts, and operational performance.
+
+**Tools:** SQL | Excel | Power BI | Python
+
+Key areas:
+- Sales & profitability analysis
+- Customer analysis
+- Product performance
+- Regional analysis
+- Discount impact on profit
+- Advanced SQL queries
+- Excel dashboards
+- Power BI reporting
+
+---
+
+### ⚡ EVChargeIQ — EV Charging Demand, Revenue & Location Analytics
+
+An analytics project focused on electric vehicle charging demand, revenue performance, customer behavior, and location-level business insights.
+
+**Tools:** Python | SQL | Power BI | Business Analytics | AI
+
+---
 
 ### 🎭 Face Recognition using PCA & ANN
 
-Implemented the complete Turk & Pentland Eigenfaces algorithm along with an Artificial Neural Network developed completely from scratch using NumPy.
+Implemented the Eigenfaces approach using PCA along with an Artificial Neural Network developed from scratch using NumPy for face recognition.
+
+**Tools:** Python | NumPy | SciPy | OpenCV | PCA | ANN
 
 Repository:
 
@@ -62,37 +105,48 @@ Repository:
 
 ---
 
-## 🎯 2026 Goals
+### 🎬 Netflix Content Analysis
 
-- Build 10+ high-quality portfolio projects
-- Learn Data Engineering
-- Contribute to Open Source
-- Secure a Data Analyst / Machine Learning role
+Exploratory data analysis of Netflix titles to identify trends in content types, genres, release years, countries, and other content characteristics.
+
+**Tools:** Python | Pandas | Matplotlib
 
 ---
 
-## 📫 Connect with Me
+## 🎯 2026 Goals
 
-GitHub:
+- Build 10+ high-quality data and analytics projects
+- Strengthen SQL and Excel expertise
+- Develop advanced Power BI dashboards
+- Build real-world business analytics solutions
+- Contribute to Open Source
+- Secure a Data Analyst / Business Analyst role
+
+---
+
+## 📊 Areas of Interest
+
+- Data Analytics
+- Business Analytics
+- Product Analytics
+- Business Intelligence
+- Data Visualization
+- Machine Learning
+- Data Engineering
+
+---
+
+## 📫 Connect With Me
+
+### GitHub
 https://github.com/SHREYASHRAW
 
-LinkedIn:
-(Add after creating/updating your LinkedIn)
+### LinkedIn
+(Add your LinkedIn profile here)
 
-Email:
+### Email
 shreyashrawate9229@gmail.com
 
-<!--
-**SHREYASHRAW/SHREYASHRAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ I’m always interested in learning, building, and solving problems with data.
